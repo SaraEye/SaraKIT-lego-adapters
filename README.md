@@ -18,3 +18,6 @@ Adapter for GM3506 and LEGO wheel
 
 ## Wheel adapters 
 Wheel adapters allows you to install Pololu 1/2" Ball Caster (Item #952)
+
+## Raspberry Pi camera holder
+Camera adtapters allows you to install Rasppberry pi camera. Thera are two, most popular, screw rasters 21x12.5mm and 21x13.5mm  
